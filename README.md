@@ -13,6 +13,12 @@ The code has been written within the Visual Studio Code (VSCode) integrated deve
 ### Testing
 The code underwent testing through the utilization of the Postman testing framework. This included the execution of both POST and GET requests to assess whether the actual results aligned with the anticipated outcomes. 
 
+### Steps to execute : End-User perspective
+1) Install Python and Flask
+2) Execute the program in a terminal to start the web application
+3) Make requests to each endpoint using required inputs (JSON), resulting in the expected output 
+4) Test using Postman, script files, or any other equivalent tool
+
 
 
 
