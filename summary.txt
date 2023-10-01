@@ -1,1 +1,17 @@
+1) Why did you choose the tools, libraries, and language you used for the coding exercise?
 
+- I chose to use Python as a programming language due to ease & versatility of coding. It, also, has extensive library support that is provided innately making it easy for achieving wide range of functionality and reusability.
+- I chose to use the Flask web-framework in conjunction with Python to create the RESTful API due to its simplicty and flexibility. Flask does not impose a specific framework, allowing developers to use the tool to fullfill their specific project needs. Along with that, Flask provides simple ways to define route handling (to reach specific endpoints). This framework has been implemented by many businesses to successfully meet their end user needs.
+
+2) What are the advantages and disadvantages of your solution?
+
+Advantages:
+- The code is organized in a clear manner, facilitating easy understanding. Additionally, it features comments and documentation that provide explanations for the purpose of each route and function, further enhancing code comprehension.
+- This Python Flask REST API is compatible with multiple software systems and platforms. It can be invoked by making HTTP requests to the API and providing inputs/outputs in JSON.
+
+Disadvantages:
+- This program works only for the length of the session due to the usage of global variables for data storage. This can be overcome by persisting data using a flat file format or a database management system.
+
+3) What has been a favorite school/personal project thus far? What about it that challenged you?
+
+My favorite personal project that I have worked on so far was an online banking system targeted towards students, to promote individualistic and social welfare. I connected users with local charities of their choice to donate money with every purchase made (round up feature). This was a group project, and we had difficulty during integration of modules developed by the team members. The interfaces we initially developed underwent changes as the project progressed. There was a gap in communication due to which the original interfaces were being used, resulting in differences between the interfaces and the implementation layer. This was fixed by adapting the code to align with the modifications made in the newer interface. This successful adjustment allowed us to seamlessly integrate the code. We also had issues with error handling after code integration as this was not planned well enough during the original design. We overcame this issue by redesigning the error handling across the project and making code adjustments.
