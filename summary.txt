@@ -1,7 +1,7 @@
 1) Why did you choose the tools, libraries, and language you used for the coding exercise?
 
 - I chose to use Python as a programming language due to ease & versatility of coding. It, also, has extensive library support that is provided innately making it easy for achieving wide range of functionality and reusability.
-- I chose to use the Flask web-framework in conjunction with Python to create the RESTful API due to its simplicty and flexibility. Flask does not impose a specific framework, allowing developers to use the tool to fullfill their specific project needs. Along with that, Flask provides simple ways to define route handling (to reach specific endpoints). This framework has been implemented by many businesses to successfully meet their end user needs.
+- I chose to use the Flask web-framework in conjunction with Python to create the RESTful API due to its simplicity and flexibility. Flask does not impose a specific framework, allowing developers to use the tool to fulfill their specific project needs. Along with that, Flask provides simple ways to define route handling (to reach specific endpoints). This framework has been implemented by many businesses to successfully meet their end user needs.
 
 2) What are the advantages and disadvantages of your solution?
 
